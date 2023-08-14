@@ -25,17 +25,16 @@ git clone https://github.com/CodeRishabh/Lyriks-music-app.git
 **Install the required dependencies**:
 npm install
 
-Create a .env file in the root directory and provide your ShazamAPI credentials:
-Copy code
+**Create a .env file in the root directory and provide your ShazamAPI credentials**:
 VITE_SHAZAM_CORE_RAPID_API_KEY="your_key" 
 VITE_GEO_API_KEY = "your_key"
 
-Start the development server:
+**Start the development server**:
 npm start dev
 Open your browser and go to http://localhost:5173 to see the app in action!
 
-Contributing 🤝
+### Contributing 🤝
 Your contributions are highly welcome! Whether you find a bug, have a suggestion, or want to add new features, feel free to submit a pull request. Please make sure to follow the established coding guidelines and practices.
 
-Live Demo 🌐
+### Live Demo 🌐
 Experience the app live: [Live Demo Link](https://lyriks-music-app-sable.vercel.app/)
